@@ -1,0 +1,11 @@
+# config: min,max,bar,text
+9,20,63,Library Hours
+
+# data: min,max,text
+9:00,20:00,M
+9:00,20:00,T
+9:00,18:00,W
+9:00,20:00,R
+9:00,17:00,F
+9:00,13:00,S
+0:00,0:00,N

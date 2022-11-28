@@ -1,0 +1,22 @@
+# config: min,max,bar,text
+0,24,55,Test Data
+
+# data: min,max,text
+9:30,20:30:30,Mon
+9:30,20,Tue
+9,18:00,Wed
+9,20,Thr
+9,17,Fri
+9,13,Sat
+0,0,sun
+0,18,lites off
+18,24,lites  on
+0,6,test 6h
+6,12
+12,18
+18,24
+0,8,test 8h
+8,16
+16,24
+0,12,test 12h
+12,24
